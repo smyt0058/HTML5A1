@@ -28,6 +28,7 @@
     },
     
     "globals": {
+        "app": true,
         "React": true,
         "ReactDOM": true,
         "contacts": true
